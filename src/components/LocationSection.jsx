@@ -16,8 +16,8 @@ const LocationSection = () => {
                             <MapPin className="w-6 h-6 text-neon-green shrink-0 mt-1" />
                             <div>
                                 <p className="text-xl font-semibold text-white mb-1">Players United Badminton Courts</p>
-                                <p>123 Smash Avenue</p>
-                                <p>Sports District, SD 45001</p>
+                                <p>123 Subbaih Colony, Avilali, Tirupati</p>
+                                <p>Tirupati District, Andhra Pradesh 517502</p>
                             </div>
                         </div>
                         <div className="flex items-center gap-4 text-gray-300">
